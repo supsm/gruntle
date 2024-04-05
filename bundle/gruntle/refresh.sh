@@ -18,7 +18,7 @@ readonly SPRUCE_UI_VERSION="5.0.3+1.20.4"
 readonly LOADER_VERSION="0.15.6"
 # Used as base version number for all mods specific to MC version
 # Last digit will be git commit number
-readonly MOD_VERSION="20.4"
+readonly MOD_VERSION="20.5"
 readonly MC_FULL_VERSION="24w14a"
 # Following is used in fabric.mod.json because pre-release suffixes are apparently parsed differently there
 readonly MC_SHORT_VERSION="1.20.5-alpha.24.14.a"
