@@ -19,7 +19,7 @@ plugins {
 }
 
 ext.platform_name = 'forge'
-ext.forge_version = '45.0.49'
+ext.forge_version = '51.0.29'
 
 configurations {
 	bundle { transitive = false }
