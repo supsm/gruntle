@@ -1,27 +1,27 @@
 # https://modrinth.com/mod/modmenu/versions#all-versions
-readonly MOD_MENU_VERSION="10.0.0-beta.1"
+readonly MOD_MENU_VERSION="11.0.1"
 # https://modrinth.com/mod/cloth-config/versions?s=true
-readonly CLOTH_CONFIG_VERSION="14.0.126"
+readonly CLOTH_CONFIG_VERSION="15.0.128"
 # https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/files
-readonly CLOTH_CONFIG_FORGE_VERSION="14.0.126"
+readonly CLOTH_CONFIG_FORGE_VERSION="15.0.128"
 # https://modrinth.com/mod/rei/versions?s=true
-readonly REI_VERSION="15.0.728"
-readonly REI_FORGE_VERSION="15.0.728"
+readonly REI_VERSION="16.0.744"
+readonly REI_FORGE_VERSION="16.0.744"
 # https://www.curseforge.com/minecraft/mc-mods/architectury-api/files
 # https://modrinth.com/mod/architectury-api/versions
-readonly ARCH_VERSION="12.0.28"
-readonly ARCH_FORGE_VERSION="12.0.28"
+readonly ARCH_VERSION="13.0.6"
+readonly ARCH_FORGE_VERSION="13.0.6"
 # https://maven.gegy.dev/releases/dev/lambdaurora/spruceui
-readonly SPRUCE_UI_VERSION="5.0.3+1.20.4"
+readonly SPRUCE_UI_VERSION="5.1.0+1.21"
 
 # https://fabricmc.net/versions.html
 readonly LOADER_VERSION="0.15.11"
 # Used as base version number for all mods specific to MC version
 # Last digit will be git commit number
-readonly MOD_VERSION="20.5"
-readonly MC_FULL_VERSION="1.20.5"
+readonly MOD_VERSION="21.0"
+readonly MC_FULL_VERSION="1.21"
 # Following is used in fabric.mod.json because pre-release suffixes are apparently parsed differently there
-readonly MC_SHORT_VERSION="1.20.5"
+readonly MC_SHORT_VERSION="1.21"
 
 ### START COMMON CODE ##########################################
 
